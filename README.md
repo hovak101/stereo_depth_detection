@@ -1,2 +1,2 @@
-# DAES_SelfDrivingCar
-Car stuff that uses camera stuff to evade obstacles swoosh swoosh 👀🚗
+# Stereo Depth Detection
+Some experimental stuff I worked on while making the DAES self driving car. 
